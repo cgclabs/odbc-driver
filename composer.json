@@ -1,5 +1,5 @@
 {
-    "name": "garylocke/odbc-driver",
+    "name": "mgaley/odbc-driver",
     "description": "Laravel 5.1 ODBC Driver",
     "keywords": ["odbc", "driver", "laravel", "5.1"],
     "authors": [
