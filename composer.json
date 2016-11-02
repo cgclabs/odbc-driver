@@ -1,5 +1,5 @@
 {
-    "name": "mgaley/odbc-driver",
+    "name": "cgclabs/odbc-driver",
     "description": "Laravel 5.2 ODBC Driver",
     "keywords": ["odbc", "driver", "laravel", "5.2"],
     "authors": [
